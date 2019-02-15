@@ -1,0 +1,19 @@
+{
+  "name": "pr-sandbox",
+  "version": "1.0.0",
+  "description": "A sandbox for build scripts",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eddiesholl/pr-sandbox.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eddiesholl/pr-sandbox/issues"
+  },
+  "homepage": "https://github.com/eddiesholl/pr-sandbox#readme"
+}
