@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/eddiesholl/pr-sandbox/issues"
   },
-  "homepage": "https://github.com/eddiesholl/pr-sandbox#readme"
+  "homepage": "https://github.com/eddiesholl/pr-sandbox#readme",
+  "dependencies": {
+    "debug": "^4.1.0"
+  }
 }
